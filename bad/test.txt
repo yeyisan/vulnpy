@@ -1,2 +1,4 @@
 
 this is a test file enter here your test cases:
+
+"RSA private key": "-----BEGIN EC PRIVATE KEY-----"
