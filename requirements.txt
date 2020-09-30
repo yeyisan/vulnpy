@@ -1,5 +1,4 @@
 click
-cryptography
 Flask
 geoip2
 jsonschema
@@ -7,5 +6,5 @@ PyJWT
 pyotp
 qrcode
 requests
-cryptography==1.7
+cryptography==1.0
 
