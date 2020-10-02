@@ -6,6 +6,4 @@ PyJWT
 pyotp
 qrcode
 requests
-jaxrs
 cryptography==1.0
-
