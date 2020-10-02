@@ -1,3 +1,1 @@
-db_host="127.0.0.1"
-db_user="admin"
-db_password="test123!!"
+api_key="761030fe3b854f9b46647b8b21934296409675sd"
