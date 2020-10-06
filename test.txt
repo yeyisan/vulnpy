@@ -1,1 +1,1 @@
-"Generic API Key":"AKIA073856AKJSFHSFIFODLF9SS"
+"RSA private key": "-----BEGIN RSA PRIVATE KEY-----",
