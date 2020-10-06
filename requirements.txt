@@ -6,4 +6,4 @@ PyJWT
 pyotp
 qrcode
 requests
-cryptography==1.6
+cryptography==1.5
